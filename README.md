@@ -43,7 +43,12 @@ Passionate about cracking complex algorithmic challenges, building scalable web 
 </p>
 
 ---
+---
 
+### 🎯 What I'm Up To Right Now:
+- 🚀 Deep diving into advanced **Data Structures and Algorithms** in C++.
+- 🌐 Enhancing my back-end development workflows to build production-ready Web Applications.
+- 🧠 Practicing core system design concepts and problem-solving paradigms.
 ### 📬 Let's Connect!
 
 - 💻 **LinkedIn:** https://www.linkedin.com/in/ashish-singh-rawat-a23a76320/
