@@ -30,16 +30,19 @@ Passionate about cracking complex algorithmic challenges, building scalable web 
 
 ---
 
+---
+
 ### 📊 My GitHub Analytics
 
 🥇 **Check out my live developer metrics below:**
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ashish-singh-rawat-09&show_icons=true&theme=dark&hide_border=true&align=center" alt="Ashish's GitHub Stats" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ashish-singh-rawat-09&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" width="48%" alt="Ashish's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish-singh-rawat-09&layout=compact&theme=dark&hide_border=true&hide=jupyter%20notebook,html,css" width="48%" alt="Top Languages" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish-singh-rawat-09&layout=compact&theme=dark&hide_border=true&align=center" alt="Top Languages" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashish-singh-rawat-09&theme=dark&hide_border=true" width="97%" alt="Ashish's GitHub Streak" />
 </p>
 
 ---
